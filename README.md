@@ -13,3 +13,5 @@ This project was written in Python 3 in Google Colab and requires the following 
 All datasets used are available in the data folder.
 
 To run: python3 main.py
+
+**To best view the project report** with graphs and images, please view/run on Google Colab [here](https://colab.research.google.com/github/1040mxg/5334project/blob/main/projectReport.ipynb) or with outputs [here](https://github.com/1040mxg/5334project/blob/main/projectReport.ipynb).
